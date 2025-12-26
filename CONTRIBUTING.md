@@ -71,7 +71,7 @@ git commit -m "<short description of change>"
 Once you've solved the issue:
 
 - Push your changes to your fork:
-- Open a PR from your fork to the **main DING repository** (`opencodeiiita/echo`).
+- Open a PR from your fork to the **main DING repository** (`opencodeiiita/DING`).
 
 #### Step 4.5 : PR etiquette
 
